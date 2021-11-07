@@ -1,0 +1,8 @@
+{
+	"title"	: 	"Minigamespack 4",
+	"type" 	:	"model",
+	"tags"	:	["fun"],
+	"ignore"	:
+	["*.git","*.txt"]
+}
+	
